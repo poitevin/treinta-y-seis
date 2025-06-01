@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/treinta-y-seis/static/js/main.52c425b0.js",
+    "static/js/453.9e83a0e2.chunk.js": "/treinta-y-seis/static/js/453.9e83a0e2.chunk.js",
+    "index.html": "/treinta-y-seis/index.html",
+    "main.52c425b0.js.map": "/treinta-y-seis/static/js/main.52c425b0.js.map",
+    "453.9e83a0e2.chunk.js.map": "/treinta-y-seis/static/js/453.9e83a0e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.52c425b0.js"
+  ]
+}
